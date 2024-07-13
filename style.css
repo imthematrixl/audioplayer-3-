@@ -1,0 +1,13 @@
+body{
+    background-color: blue;
+}
+
+img{
+    width: 800px;
+    height: 800px;  
+    position: absolute;
+    top: -10%;
+    right: 20%;
+    filter: drop-shadow(30px 20px 4px rgb(235, 129, 198));
+    
+}
